@@ -8,7 +8,7 @@ const Navbar = () => {
         <a href="#" className="md:hidden">EC</a>
         <div className="flex justify-end space-x-2">
           <a href="#aboutMe" className="p-4">About</a>
-          <a href="#projects" className="p-4">Projects</a>
+          <a href="#project" className="p-4">Projects</a>
           <a href="#contact" className="p-4">Contact</a>
         </div>
       </div>

@@ -65,7 +65,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a Bachelor's degree in Data Analytics at Asia Pacific University Malaysia, where I have been honing my skills in various technologies. I am familiar with data mining softwares, with expertise in MySQL, R Studio, SAS Enterprise Miner. I'm skilled in creating visually appealing and user-friendly interfaces using Tailwind CSS as well.
+                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a Bachelor&apos;s degree in Data Analytics at Asia Pacific University Malaysia, where I have been honing my skills in various technologies. I am familiar with data mining softwares, with expertise in MySQL, R Studio, SAS Enterprise Miner. I'm skilled in creating visually appealing and user-friendly interfaces using Tailwind CSS as well.
                          </p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}

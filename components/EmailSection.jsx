@@ -16,7 +16,7 @@ const EmailSection = () => {
                 <p className="text-[#ADB7BE] mb-4 max-w-md mt-8 text-justify">
                 I&apos;m always looking for new opportunities, if you have a question or you just want to say hi, drop me a DM or an email! I&apos;ll get back to you ASAP.
                 </p>
-                <h4 className="pb-3 mt-6">Let's get in touch!</h4>
+                <h4 className="pb-3 mt-6">Let&apos;s get in touch!</h4>
                 <div className=" flex flex-row gap-4 mt-6">
                     <Link href="https://github.com/samsamsam0513">
                         <Image src={GithubIcon} alt="Github Icon" />
